@@ -235,14 +235,3 @@ The repository includes `InvoiceDemo1.txt` as a working example:
 - Includes two line items with tax calculations
 - Shows international invoice scenario (Japan to Sweden)
 
-## License
-
-This project is provided as-is without a specified license.
-
-## Author
-
-Created by @pixabel
-
----
-
-*Last Updated: September 2024*
